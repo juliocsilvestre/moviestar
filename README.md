@@ -144,7 +144,6 @@ chmod 777 img/users
 **Júlio César Silvestre**
 
 - GitHub: [@juliocsilvestre](https://github.com/juliocsilvestre)
-- Email: jcss.silvestre@gmail.com
 
 ## 📄 Licença
 
